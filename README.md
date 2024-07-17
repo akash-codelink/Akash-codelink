@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-
-<br>
 <h3 align="center">A passionate Backend developer from India</h3>
+<br>
 
 - 🌱 I’m currently learning **new Technologies**
 

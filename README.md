@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-codelink" alt="akash-codelink" /></a> </p>
+- 🌱 I’m currently learning **new Technologies**
 
 - 👨‍💻 All of my projects are available at [https://akash-porfolio-five.vercel.app/](https://akash-porfolio-five.vercel.app/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Akash.vu08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fPg9f2mY1dr1N2KbJUyJj5Hs6H7aLqgG/view?usp=sharing](https://drive.google.com/file/d/1fPg9f2mY1dr1N2KbJUyJj5Hs6H7aLqgG/view?usp=sharing)
+- ⚡ Fun fact **I think am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-codelink&show_icons=true&locale=en&layout=compact" alt="akash-codelink" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-codelink&" alt="akash-codelink" /></p>
-
 
